@@ -1,3 +1,8 @@
+![Image](https://github.com/user-attachments/assets/ab5a1e5f-526d-4d56-ab04-b6b831e47d36)
+![Image](https://github.com/user-attachments/assets/d266e5f2-9849-4872-b9e1-9be6d52b6595)
+![Image](https://github.com/user-attachments/assets/eab0081b-2bd5-43b7-918b-278720ecd408)
+![Image](https://github.com/user-attachments/assets/402ff7eb-860d-48e0-b698-52b6dd6245b7)
+![Image](https://github.com/user-attachments/assets/39f8ece0-4855-4488-84c5-3187091f56ff)
 # T23 Crime Analytics Dashboard
 
 A comprehensive Power BI dashboard designed to analyze crime trends, patterns, and insights from the T23 dataset. This report helps users visualize crime distribution, detect hotspots, compare year-wise trends, and explore actionable insights for decision-making.
